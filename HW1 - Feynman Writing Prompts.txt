@@ -1,0 +1,16 @@
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old. Doing this will help you quickly discover any holes in your understanding. Ask your questions on Slack.
+
+Variables
+	An empty field that can hold a value like a number or text. It can change, hence the name variable.
+
+Strings
+	A bunch of data that is made up of letters and numbers. The numbers are not reconginzed as such, instead they are seen as text.
+
+Functions (arguments, return)
+	Functions are used to make the code do things. They take arguements as input, do something with them, and return the result as output.
+
+if statements
+	These function types allow for the code to take different directions based on some set requirements. If the result is one thing it will run one set of code instead of another.
+
+Boolean values (true, false)
+	Boolean values can only be one of two values, True or False. The are frequently used in IF statements to make the code run one block instead of another. i.e. If x is true, then run x-code. If x is false, then run y-code.
